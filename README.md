@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @iamentrepreneur
+# Hi, I'm @iamentrepreneur
 
 **Senior Full-stack / Backend Developer | PHP · Symfony · Laravel · 1C-Bitrix · Vue 3**
 
@@ -6,14 +6,14 @@ I'm a software engineer with **10+ years of commercial experience** building e-c
 
 I focus on backend architecture, reliable integrations, maintainable code, and turning complex business requirements into practical solutions. My experience spans e-commerce, fintech, internal systems, and service-oriented applications.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend:** PHP 7/8, Symfony, Laravel, 1C-Bitrix (D7, ORM), Bitrix24, REST APIs, PHPUnit  
 **Frontend:** JavaScript, Vue 3, Pinia, Vue Router, Vite, HTML, CSS  
 **Data & messaging:** PostgreSQL, MySQL, Redis, Memcached, Kafka  
 **Infrastructure & observability:** Docker, Docker Compose, Linux, Nginx, Apache, Git, CI/CD, OpenSearch, Elasticsearch, Logstash
 
-## 💼 What I Do
+## What I Do
 
 - Design and develop backend services, REST APIs, and full-stack applications
 - Build e-commerce platforms and integrations with external services and marketplaces
@@ -21,17 +21,17 @@ I focus on backend architecture, reliable integrations, maintainable code, and t
 - Improve existing systems through refactoring, profiling, and automated testing
 - Design and document architecture, business rules, and development workflows
 
-## 🏅 1C-Bitrix Expertise
+## 1C-Bitrix Expertise
 
 **Certified 1C-Bitrix partner** with extensive commercial experience in 1C-Bitrix and Bitrix24 development.
 
 My work includes custom components and modules, D7/ORM, e-commerce business logic, CRM integrations, event-driven synchronization, and integrations with external APIs.
 
-## 🚀 Selected Private Projects
+## Selected Private Projects
 
 I build independent products to explore architecture, domain modeling, integrations, and modern development workflows. **All repositories below are private.** I can walk through architecture, technical decisions, and selected code during a technical interview.
 
-### ☕ Coffee Platform — Multi-Tenant SaaS
+### Coffee Platform — Multi-Tenant SaaS
 
 **Stack:** Laravel 13, Vue 3, TypeScript, PostgreSQL, Redis, Docker
 
@@ -42,7 +42,7 @@ A SaaS platform for coffee shops combining loyalty programs, digital menus, cust
 - Loyalty and reward workflows
 - Automated tests and architecture documentation
 
-### 📡 HH Radar — Job Monitoring Platform
+### HH Radar — Job Monitoring Platform
 
 **Stack:** Laravel 12, Vue 3, Inertia, PostgreSQL, Redis, Docker
 
@@ -53,7 +53,7 @@ A platform for collecting and organizing job opportunities from external sources
 - User-specific tracking, search profiles, and favorites
 - PHPUnit tests and PHPStan static analysis
 
-### 🔔 Relayo — Notification Infrastructure
+### Relayo — Notification Infrastructure
 
 **Stack:** Laravel, Vue 3, MySQL, Redis, Docker
 
@@ -64,7 +64,7 @@ A centralized notification service intended to help applications deliver and man
 - External notification endpoint and integration workflows
 - Docker-based development and deployment
 
-### 🐕 DogSpace — Social Platform
+### DogSpace — Social Platform
 
 **Stack:** Laravel 13, Vue 3, Inertia, TypeScript, PostgreSQL, Docker
 
@@ -75,7 +75,7 @@ An evolving social platform for dog owners, with separate identities for people 
 - Documented architectural decisions and development rules
 - Automated tests for early core functionality
 
-### 🔗 Bitrix Partner CRM — Order Synchronization
+### Bitrix Partner CRM — Order Synchronization
 
 **Stack:** PHP, 1C-Bitrix, D7 ORM, webhooks, cron
 
@@ -86,9 +86,9 @@ An integration between an e-commerce website and a separate CRM system to synchr
 - HMAC-signed webhook requests and duplicate-event protection
 - Receiving-side validation and order upsert logic
 
-> 🔒 **Private by design:** These repositories are not publicly accessible. I'm happy to discuss the architecture and demonstrate selected implementation details in a personal technical conversation.
+> **Private by design:** These repositories are not publicly accessible. I'm happy to discuss the architecture and demonstrate selected implementation details in a personal technical conversation.
 
-## 🤖 AI-Assisted Development
+## AI-Assisted Development
 
 I actively use **OpenAI Codex** and ChatGPT as part of my engineering workflow. I use AI agents for implementation while retaining responsibility for architecture, correctness, security, and code quality.
 
@@ -99,18 +99,18 @@ I actively use **OpenAI Codex** and ChatGPT as part of my engineering workflow. 
 
 **AI can write the code. Engineering judgment remains essential.**
 
-## 📚 Currently Exploring
+## Currently Exploring
 
 - Go and backend systems programming
 - Distributed systems, concurrency, and resilient integrations
 - Advanced PostgreSQL and system design
 - Agent-driven software development workflows
 
-## 🤝 Open to Collaboration
+## Open to Collaboration
 
 I'm interested in backend and full-stack development, e-commerce, fintech, SaaS products, API integrations, developer tooling, and early-stage products.
 
-## 📫 Contact
+## Contact
 
 - **Telegram:** [@meentrepreneur](https://t.me/meentrepreneur)
 - **Email:** [hi@artofall.ru](mailto:hi@artofall.ru)
